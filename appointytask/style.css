@@ -1,0 +1,117 @@
+body{
+  background-color: #f3fafe;
+  font-family: "Lucida Handwriting";
+}
+a:link{
+  text-decoration: none;
+  color: black;
+}
+.navbar{
+        display: inline-block;
+    }
+    .navbar li{
+        display: inline-block;
+        font: 25px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+    }
+    .mid{
+      margin-left: 555px;
+    }
+
+      .logo{
+    position: absolute;
+    width: 12.3%;
+    margin-left: 75px;
+    margin-top: 9px;
+  }
+.flex-container{
+  display: flex;
+  margin-top: 125px;
+}
+.flex-child{
+  flex:1;
+}
+.plan-left{
+  margin-right: 155px;
+  margin-left: 85px;
+}
+.a{
+  width:75%;
+
+}
+.institutions{
+  margin-top: 115px;
+}
+.column {
+  float: left;
+  width: 25%;
+}
+.column1 {
+  float: left;
+  width: 25%;
+}
+.row1{
+  margin-top: 55px;
+}
+.row2{
+  margin-top:195px;
+}
+.d{
+  width:85px;
+}
+.goals{
+  margin-top: 663px;
+}
+.l {
+  float: left;
+  width: 50%;
+}
+.book{
+  margin-top: 315px;
+  margin-left: 245px;
+}
+.institutions{
+  margin-left: 115px;
+}
+#booking{
+  width: 385px;
+}
+.h{
+  float: left;
+  width: 25%;
+  margin-right: 35px;
+}
+.three-div{
+  margin-left: 245px;
+  margin-top: 35px;
+  background-color: red;
+}
+.s{
+  float: left;
+  width: 50%;
+
+}
+#zooms{
+  width: 465px;
+  margin-left: 175px;
+  margin-top: 17px;
+}
+.zoom{
+  margin-top: 705px;
+}
+.rr{
+margin-left:
+  width: 50%;
+
+}
+#db{
+  width: 465px;
+  margin-left: 771px;
+  margin-top:-291px;
+}
+#sd{
+  margin-left: 235px;
+  margin-top: 1117px;
+}
